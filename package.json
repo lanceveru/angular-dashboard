@@ -1,0 +1,29 @@
+{
+  "name": "angular-dashboard",
+  "version": "1.0.2",
+  "description": "Dashboard in AngularJS Framework",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanceveru/angular-dashboard.git"
+  },
+  "keywords": [
+    "angularjs",
+    "dashboard"
+  ],
+  "author": "5sdesigns",
+  "bugs": {
+    "url": "https://github.com/lanceveru/angular-dashboard/issues"
+  },
+  "homepage": "https://github.com/lanceveru/angular-dashboard#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-htmlmin": "^2.0.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-serve": "^0.1.6"
+  }
+}

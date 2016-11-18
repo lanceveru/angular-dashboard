@@ -1,0 +1,33 @@
+{ 
+  "StaticMainMenu" : 
+    [
+      {
+        "name": "Home",
+        "link": "",
+        "icon": ""
+      },
+      {
+        "name": "Settings",
+        "link": "settings",
+        "icon": ""
+      },
+      {
+        "name": "Profile",
+        "link": "profile",
+        "icon": ""
+      }
+      
+    ],
+
+  "StaticTopMenu" :
+    [
+      {
+        "name": "About us",
+        "link": "services"
+      },
+      {
+        "name": "Contact us",
+        "link": "contact"
+      }
+    ]
+}

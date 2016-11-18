@@ -1,0 +1,26 @@
+{
+  "name": "angular-dashboard",
+  "description": "Dashboard in AngularJS Framework",
+  "main": "index.html",
+  "authors": [
+    "5sdesigns"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs",
+    "dashboard"
+  ],
+  "homepage": "5sdesigns.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "requirejs": "~2.1.0",
+    "angularAMD": "^0.2.1"
+  }
+}
